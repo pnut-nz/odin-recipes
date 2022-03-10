@@ -1,0 +1,23 @@
+.body{
+    background: #29A40A;
+    background: -moz-radial-gradient(center, #29A40A 0%, #17CBB3 27%, #380975 100%);
+    background: -webkit-radial-gradient(center, #29A40A 0%, #17CBB3 27%, #380975 100%);
+    background: radial-gradient(ellipse at center, #29A40A 0%, #17CBB3 27%, #380975 100%);ck;
+}
+
+#title{
+    background-color: orange;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 5px solid #1ca433ed;
+    align-items: center;
+}
+
+.heading{
+    align-items: center;   
+    color: hsl(0, 76%, 53%);
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+}
